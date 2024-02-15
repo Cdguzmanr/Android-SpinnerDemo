@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpinnerDemo</string>
+    <string name="pick_an_item">Pick an Item</string>
+</resources>
